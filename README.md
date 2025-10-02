@@ -32,14 +32,14 @@ Energy demands are strongly correlated with increasing temperature: clients will
 We can take proactive steps to ensure the grid is robust enough to handle these projected increases in load.
 I recommend we invest early in alternative technologies like wind and solar to help reduce our carbon footprint and drive down the cost of future investments in the grid.
 
-<center>Historical month-by-month trends
+<p align="center">Historical month-by-month trends
 
 ![Image of mont-by-moth trends in historical data](month-trends.png)
 
 ML model predictions, including past 90 months and 10 future months
 
 ![Image of current and future trends from the ML model](xgboost-vis.png)
-</center>
+</p>
 
 ## Next Steps
 1. Explore correlations in historical data between changes in temperature and consumer usage
