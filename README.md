@@ -28,7 +28,7 @@ We observe a clear, accelerating trend in the climate data from 1961 - 2019.
 According to this model, the trend will continue into the foreseeable future.
 Energy demands are strongly correlated with increasing temperature: clients will use more A/C to cool down their business and houses.
 We can take proactive steps to ensure the grid is robust enough to handle these projected increases in load.
-Invest early in alternative technologies like wind and solar to help reduce our carbon footprint and drive down the cost of future investments in the grid.
+I recommend we invest early in alternative technologies like wind and solar to help reduce our carbon footprint and drive down the cost of future investments in the grid.
 
 ## Next Steps
 1. Explore correlations in historical data between changes in temperature and consumer usage
