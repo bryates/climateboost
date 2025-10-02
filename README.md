@@ -36,7 +36,7 @@ Historical month-by-month trends
 
 ![Image of mont-by-moth trends in historical data](month-trends.png)
 
-ML model predictions, including 100 future months
+ML model predictions, including 100 months in the future
 
 ![Image of current and future trends from the ML model](xgboost-vis.png)
 
